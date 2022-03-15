@@ -1,5 +1,4 @@
 # laminar Point of Sale 
-<hr />
 Cloud PoS Solution (Proof of Concept)
 
 ##  Project Overview & Demo

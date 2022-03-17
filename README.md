@@ -1,3 +1,5 @@
+![laminar logo](https://cdn.discordapp.com/attachments/402699845971869696/953446564418953236/Laminar_Logo_Large.png)
+
 # laminar Point of Sale 
 Cloud based POS Solution *(Proof of Concept)*
 
@@ -38,7 +40,7 @@ As of now, v0.3 is still just a proof of concept, far from a full prototype of t
 
 ## TODO
 - ~~Quick google for inspiration~~
-- Create gifs of features (Reilly)
+- Create GIFs of features (Reilly)
 - Add relevant text from reports (Derek)
 - ~~Add features sub-level bullets~~ (Derek)
 - Collage (Reilly)
@@ -62,6 +64,7 @@ As of now, v0.3 is still just a proof of concept, far from a full prototype of t
   - Employee Roles
   - Employee Access Levels
   - Shifts
+
 - Item Management
   - Menu items
 - Menu/Submenu Management
@@ -93,19 +96,16 @@ Access Level
 *insert image/gif*
 
 
-Quick comment.
-*insert image/gif*
-
 ### Item Management  
 
 Items
 *insert image/gif*
 
+
 ### Menu Management
 
 Submenus + Contents
 *insert image/gif*
-
 
 
 ### Order Management
@@ -119,9 +119,18 @@ Item Selection
 Payments
 *insert image/gif*
 
+
+### General UI/UX
+
+Employee Menu Popup and Dark Mode Slider
+*insert image/gif*
+
+
 ## Design Overview
 
-*Show off UML stuff here*
+Blurb about UML modeling and
+*UML diagram collage*
+
 
 ## Backlog 
 - Features
@@ -146,7 +155,9 @@ Payments
   - Payment Processing (EoD)
     - Bank Deposits
     - Electronic Payments
-- UI
+- UI/UX
   - Improve Responsiveness
   - Fix Dark Mode
   - Implement Drag & Drop
+  - Refactor CSS into SCSS/SASS
+  - Fade in/out animations
